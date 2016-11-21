@@ -12,3 +12,9 @@ close
 
 touch target.txt
 
+####ZeroMQ
+yum install zeromq
+yum install zeromq-devel
+npm install zmq
+
+
